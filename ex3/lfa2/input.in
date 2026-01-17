@@ -1,0 +1,19 @@
+#ca exemplu am dat un dfa care accept ca input valid orice sir binar care incepe cu 1 si se termina cu 0
+Transitions:
+    q0,1,q1
+    q1,1,q1
+    q1,0,q2
+    q2,0,q2
+    q2,1,q1
+End
+
+Sigma:
+    1
+    0
+End
+
+States:
+    q0,S
+    q1
+    q2,F
+End

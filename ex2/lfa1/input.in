@@ -1,0 +1,22 @@
+#comment l i n e s ( s k i p them )
+# comment l i n e s ( s k i p them )
+#comment l i n e s ( s k i p them )
+Transitions:
+    state1,letter1,state2
+    state2,letter2,state3
+End
+#comment l i n e s ( s k i p them )
+# comment l i n e s ( s k i p them )
+#comment l i n e s ( s k i p them )
+Sigma:
+    letter1
+    letter2
+End
+#comment l i n e s ( s k i p them )
+# comment l i n e s ( s k i p them )
+#comment l i n e s ( s k i p them )
+States:
+    state1,S
+    state2
+    state3,F
+End

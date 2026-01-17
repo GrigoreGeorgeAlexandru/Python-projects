@@ -1,0 +1,5 @@
+__pycache__/
+/config/__pycache__
+/controllers/__pycache__
+/controllers/user_profile/__pycache__
+/models/__pycache__
